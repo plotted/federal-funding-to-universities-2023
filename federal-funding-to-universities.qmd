@@ -1,0 +1,254 @@
+---
+title: "Federal Funding to Universities in the U.S. 2023"
+author: "Gaston Sanchez"
+date: "May 7, 2025"
+format: 
+  html:
+    toc: true
+    number-sections: true
+    theme: zephyr
+embed-resources: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, error = TRUE)
+```
+
+```{r pkgs, message = FALSE, echo = FALSE}
+library(tidyverse) # ecosystem of data science pkgs
+library(readxl)    # import excel files
+library(sf)        # "simple features" (geospatial objects)
+library(rnaturalearth) # maps data base
+library(usmap)     # U.S. map with Alaska and Hawaii
+library(leaflet)   # web interactive maps
+library(ggiraph)   # make ggplot into interactive graphics
+```
+
+
+# Description
+
+The data visualization of this module is based on the following New York Times 
+article by Andrea Fuller, Zach Levitt and Isabelle Taft (April 30, 2025):
+
+__Where Federal Dollars Flow to Universities__
+
+<https://www.nytimes.com/interactive/2025/04/30/us/university-funding-research.html>
+
+
+![Federal funding for research and development in 2023](source/federal-funding-for-research-and-development-2023.png)
+
+\
+
+## Details (datasheet)
+
+- __Topic(s)__: 
+  + Economics
+  + Education
+  + U.S.
+  + Map
+- __Data__:
+  + Size: medium data
+  + Raw data in Excel file (`.xlsx`)
+  + Also, required curating (via ChatGPT) a CSV file with geospatial locations and types of schools
+- __Graphic__:
+  + Type: map with superimposed points
+  + Interactive: no, but we can use `"plotly"` and `"ggiraph"`
+
+
+## R Packages
+
+```{r pkgs, eval = FALSE}
+```
+
+
+-----
+
+
+# Data
+
+The graphics in this module depend on 2 data files:
+
+- Excel: `nsf25314-tab024.xlsx`
+
+- CSV: `highered-geo-type-nsf25314-tab024.csv`
+
+
+The main data set comes from the _Higher Education Research and Development (HERD) Survey_
+from 2023. This survey is the primary source of information on research and 
+development expenditures at U.S. colleges and universities (link below).
+
+<https://ncses.nsf.gov/surveys/higher-education-research-development/2023#data>
+
+Specifically, the data comes from Table 24: 
+_Federally financed higher education R&D expenditures, ranked by FY 2023 R&D expenditures: FYs 2010–23_. This data table can be downloaded as an Excel file: `nsf25314-tab024.xlsx`
+
+In addition to the above Excel file, this module requires data about the 
+location (longitude and latitude) and type (public or private) of the 
+universities listed in the  Institution Rankings table. We curated a CSV file 
+by asking ChatGPT to provide the geospatial coordinates for the institutions 
+in the rankings, and also the indicate whether they are public or private. 
+This data is in the CSV file `highered-geo-type-nsf25314-tab024.csv`
+
+
+## Importing Data Files
+
+To import the data in the Excel file `nsf25314-tab024.xlsx` use the 
+`read_excel()` function as follows:
+
+```{r message=FALSE}
+dat24_raw = read_excel(
+  path = "data/nsf25314-tab024.xlsx", 
+  sheet = 1, 
+  col_names = FALSE)
+
+# select columns: Name (1), Rank (2), and Expenditures-2023 (29)
+dat24 = dat24_raw |> 
+  select(1, 2, 29)
+
+colnames(dat24) = c("Name", "Rank", "Exp2023")
+
+# expenditure amount in millions of dollars
+dat24 = dat24 |> 
+  mutate(Amount = Exp2023 / 1000)
+```
+
+\
+
+Use `read_csv()` to import the CSV file containing the geospatial coordinates, 
+and the type of university:
+
+```{r}
+# Input file: highered-geo-type-nsf25314-tab024.csv
+# File curated with ChatGPT to get geospatial coordinates of institutions
+# Adjust long-lat limits to avoid institutions outside U.S. States
+edu = read_csv(
+  file = "data/highered-geo-type-nsf25314-tab024.csv",
+  show_col_types = FALSE) |> 
+  filter(Longitude < 0, 
+         Latitude > 19) |> 
+  mutate(Color = case_when(
+    Type == "Public" ~ "#cc823799",
+    Type == "Private" ~ "#8c677399"
+  ))
+```
+
+
+-----
+
+
+# Graphics
+
+We provide various ways to plot the map.
+
+
+## Map 1
+
+```{r}
+# Option 1) using map from "usmap" which includes Alaska and Hawaii
+# Important: Convert spatial data (e.g. lon, lat) to "usmap" projection
+edu2 = usmap_transform(
+  data = edu, 
+  input_names = c("Longitude", "Latitude"))
+
+ggplot() +
+  geom_sf(data = us_map(), #fill = "#f7f6f0"
+          fill = "#f8f8f8") +
+  geom_sf(data = edu2, 
+          color = "white",
+          shape = 21,
+          fill = edu2$Color) +
+  theme_void()
+```
+
+
+## Map 2
+
+Option 2) another less ideal option is to use a map from `"rnaturalearth"`;
+this map does not contain Alaska and Hawaii.
+
+```{r}
+us_states = ne_states(
+  country = "United States of America", 
+  returnclass = "sf")
+
+gg = ggplot() +
+  geom_sf(data = us_states) +
+  coord_sf(xlim = c(-130, -65), ylim = c(25, 50)) +
+  geom_point_interactive(
+    data = edu, 
+    aes(x = Longitude, y = Latitude, tooltip = Institution), 
+    color = "tomato", alpha = 0.5) +
+  theme_void()
+
+girafe(ggobj = gg)
+```
+
+
+## Map 3
+
+A third option is to get an interactive map using the package `"leaflet"`
+
+```{r}
+edu |> 
+  inner_join(dat24, by = c("Institution" = "Name")) |> 
+  leaflet() |> 
+  addTiles() |> 
+  addCircles(lat = ~Latitude,
+             lng = ~Longitude,
+             label = ~paste0(Institution, "; $", Amount),
+             color = ~Color)
+```
+
+\
+
+A better look can be obtained by creating better labels, and also by customizing
+the tiles, and the visual appearance of the points.
+
+```{r}
+edu_dat24 = edu |> 
+  inner_join(dat24, by = c("Institution" = "Name"))
+
+# better labels
+labels <- sprintf(
+  "%s<br/>$%s", 
+  edu_dat24$Institution,
+  format(1000 * edu_dat24$Amount, big.mark = ",")) |> 
+  lapply(htmltools::HTML)
+
+# map
+edu_dat24 |> 
+  leaflet() |> 
+  addProviderTiles("CartoDB.Positron") |> 
+  addCircles(lat = ~Latitude,
+             lng = ~Longitude,
+             label = ~labels,
+             color = ~Color, 
+             radius = ~100 * Amount,
+             weight = 2, fillOpacity = 0.5)
+```
+
+
+## Map 4
+
+The closest version to the desired map can be obtained with the following
+commands:
+
+```{r}
+# Merge with points-polygon data
+edu3 = edu2 |> 
+  inner_join(dat24, by = c("Institution" = "Name"))
+
+# Map
+ggplot() +
+  geom_sf(data = us_map(), fill = "#f8f8f8", color = "#d8d8d8") +
+  geom_sf(data = edu3, aes(size = Amount), 
+          color = "#DDDDDD", 
+          fill = edu3$Color, 
+          shape = 21) +
+  #scale_size_area(breaks = c(500, 1000, 2000, 3000)) +
+  scale_size_continuous(breaks = c(500, 1000, 2000, 3000)) +
+  theme_void() +
+  labs(title = "Federal funding for research and development in 2023")
+```
+
+

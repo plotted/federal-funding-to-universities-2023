@@ -1,0 +1,661 @@
+Institution,Name,Latitude,Longitude,Type
+Johns Hopkins U.a,Johns Hopkins University (JHU),39.3283,-76.6205,Private
+"U. Washington, Seattle","University of Washington, Seattle (UW)",47.6553,-122.303,Public
+Georgia Institute of Technology,Georgia Institute of Technology (Georgia Tech),33.7756,-84.3963,Public
+"U. California, San Diego","University of California, San Diego (UCSD)",32.8801,-117.234,Public
+"U. Michigan, Ann Arbor","University of Michigan, Ann Arbor (UMich)",42.278,-83.7382,Public
+Columbia U. in the City of New York,Columbia University in the City of New York,40.8075,-73.9626,Private
+Duke U.,Duke University,36.0014,-78.9382,Private
+Stanford U.,Stanford University,37.4275,-122.1697,Private
+U. Pennsylvania,University of Pennsylvania (Penn),39.9522,-75.1932,Private
+"U. Pittsburgh, Pittsburgh","University of Pittsburgh, Pittsburgh (Pitt)",40.4443,-79.9629,Public
+"U. North Carolina, Chapel Hill","University of North Carolina, Chapel Hill (UNC)",35.9049,-79.0469,Public
+"U. California, Los Angeles","University of California, Los Angeles (UCLA)",34.0689,-118.4452,Public
+"U. California, San Francisco","University of California, San Francisco (UCSF)",37.7675,-122.3928,Public
+U. Marylandb,"University of Maryland, College Park (UMD)",38.9897,-76.9378,Public
+U. Wisconsin-Madison,University of Wisconsin-Madison (UW-Madison),43.0766,-89.4123,Public
+New York U.,New York University (NYU),40.7306,-73.9352,Private
+"Pennsylvania State U., University Park and Hershey Medical Center","Pennsylvania State University, University Park and Hershey",40.7934,-77.86,Public
+"Washington U., Saint Louis",Washington University in St. Louis (WashU),38.65,-90.257,Private
+Vanderbilt U. and Vanderbilt U. Medical Center,Vanderbilt University and Vanderbilt University Medical Center,36.1447,-86.8027,Private
+Yale U.,Yale University,41.3163,-72.9223,Private
+Cornell U.,Cornell University,42.4534,-76.4735,Private
+"U. Minnesota, Twin Cities","University of Minnesota, Twin Cities (UMN)",44.974,-93.234,Public
+Ohio State U.,Ohio State University (OSU),40.0028,-83.0197,Public
+U. Southern California,University of Southern California (USC),34.0226,-118.4957,Private
+Northwestern U.,Northwestern University,42.0554,-87.6752,Private
+Emory U.,Emory University,33.7933,-84.3233,Private
+Icahn School of Medicine at Mount Sinai,Icahn School of Medicine at Mount Sinai,40.7902,-73.9521,Private
+Harvard U.,Harvard University,42.3736,-71.1097,Private
+"U. Texas, Austin","University of Texas, Austin (UT Austin)",30.2849,-97.7341,Public
+Massachusetts Institute of Technology,Massachusetts Institute of Technology (MIT),42.3601,-71.0942,Private
+"Texas A&M U., College Station and Health Science Center","Texas A&M University, College Station and Health Science Center",30.6172,-96.3365,Public
+U. Colorado Boulder,University of Colorado Boulder (CU Boulder),40.0076,-105.262,Public
+U. Florida,University of Florida (UF),29.65,-82.3405,Public
+"U. California, Berkeley","University of California, Berkeley (UC Berkeley)",37.8719,-122.2585,Public
+"U. California, Davis","University of California, Davis (UC Davis)",38.5382,-121.7617,Public
+U. Chicago,University of Chicago (UChicago),41.7886,-87.5987,Private
+U. Colorado Anschutz Medical Campusc,University of Colorado Anschutz Medical Campus,39.7415,-104.8239,Public
+"U. Illinois, Urbana-Champaign","University of Illinois, Urbana-Champaign (UIUC)",40.1106,-88.2272,Public
+"U. Alabama, Birmingham","University of Alabama, Birmingham (UAB)",33.4995,-86.8044,Public
+Baylor C. of Medicine,Baylor College of Medicine,29.713,-95.4049,Private
+Michigan State U.,Michigan State University (MSU),42.7012,-84.4822,Public
+U. Arizona,University of Arizona (UA),32.231,-110.9501,Public
+"Indiana U., Bloomington","Indiana University, Bloomington (IU Bloomington)",39.171,-86.5165,Public
+Case Western Reserve U.,Case Western Reserve University,41.5084,-81.6085,Private
+U. Utah,University of Utah,40.764,-111.848,Public
+Boston U.,Boston University,42.3505,-71.1054,Private
+Uniformed Services U. of the Health Sciences,Uniformed Services University of the Health Sciences (USUHS),38.9843,-77.0802,Public
+"Rutgers, State U. New Jersey, New Brunswick","Rutgers, State University of New Jersey, New Brunswick (Rutgers)",40.4982,-74.4476,Public
+U. Cincinnati,University of Cincinnati,39.1283,-84.5192,Public
+"Purdue U., West Lafayette","Purdue University, West Lafayette (Purdue)",40.4237,-86.9212,Public
+Oregon Health and Science U.,Oregon Health and Science University (OHSU),45.5051,-122.6883,Public
+U. Rochester,University of Rochester,43.127,-77.6272,Private
+"U. Virginia, Charlottesville","University of Virginia, Charlottesville (UVA)",38.0336,-78.508,Public
+"Colorado State U., Fort Collins","Colorado State University, Fort Collins (CSU)",40.5734,-105.0833,Public
+Arizona State U.,Arizona State University (ASU),33.4172,-111.9334,Public
+U. Texas Southwestern Medical Center,University of Texas Southwestern Medical Center (UT Southwestern),32.783,-96.8003,Public
+"U. California, Irvine","University of California, Irvine (UC Irvine)",33.6473,-117.8413,Public
+U. Iowa,University of Iowa,41.6611,-91.5302,Public
+Utah State U.,Utah State University (USU),41.7351,-111.83,Public
+California Institute of Technology,California Institute of Technology (Caltech),34.1377,-118.1253,Private
+U. Miami,University of Miami,25.7173,-80.2777,Private
+Virginia Polytechnic Institute and State U.,Virginia Polytechnic Institute and State University (Virginia Tech),37.2282,-80.4244,Public
+"U. Nebraska, Lincoln and Medical Centerd","University of Nebraska, Lincoln and Medical Center",40.8201,-96.7018,Public
+Carnegie Mellon U.,Carnegie Mellon University,40.4431,-79.9423,Private
+North Carolina State U.,North Carolina State University (NC State),35.785,-78.6753,Public
+Scripps Research Institute,Scripps Research Institute,33.0145,-116.549,Private
+"U. Illinois, Chicago","University of Illinois, Chicago (UIC)",41.8763,-87.6275,Public
+U. Kentucky,University of Kentucky,38.036,-84.5011,Public
+U. Texas M. D. Anderson Cancer Center,University of Texas M.D. Anderson Cancer Center,29.718,-95.4025,Public
+"SUNY, U. Buffalo","SUNY, University at Buffalo (UB)",42.997,-78.789,Public
+U. South Floridae,University of South Florida (USF),27.9475,-82.4584,Public
+Brown U.,Brown University,41.8268,-71.4025,Private
+U. Connecticut,University of Connecticut (UConn),41.3083,-72.9279,Public
+Woods Hole Oceanographic Institution,Woods Hole Oceanographic Institution,41.526,-70.6617,Private
+Albert Einstein C. of Medicine,Albert Einstein College of Medicine,40.865,-73.8677,Private
+"U. Massachusetts, Medical School","University of Massachusetts, Medical School",42.2686,-71.8053,Public
+Oregon State U.,Oregon State University (OSU),44.5646,-123.262,Public
+U. Georgia,University of Georgia,33.9522,-83.3757,Public
+"U. Oklahoma, Norman and Health Science Center","University of Oklahoma, Norman and Health Science Center",35.2074,-97.445,Public
+Princeton U.,Princeton University,40.343,-74.6514,Private
+"U. Missouri, Columbia","University of Missouri, Columbia (Mizzou)",38.9453,-92.3285,Public
+U. Dayton,University of Dayton,39.734,-84.177,Private
+U. Kansas,University of Kansas,38.9554,-95.2477,Public
+Washington State U.,Washington State University,46.7306,-117.1611,Public
+U. New Mexico,University of New Mexico (UNM),35.0841,-106.6247,Public
+Wake Forest U.,Wake Forest University,36.1345,-80.2773,Private
+U. Delaware,University of Delaware,39.68,-75.755,Public
+"U. Texas Health Science Center, Houston","University of Texas Health Science Center, Houston (UTHealth)",29.7264,-95.4008,Public
+Iowa State U.,Iowa State University,42.0299,-93.6489,Public
+Florida State U.,Florida State University,30.4419,-84.2995,Public
+"SUNY, Stony Brook U.","SUNY, Stony Brook University (Stony Brook U.)",40.964,-73.1233,Public
+"U. Hawaii, Manoa","University of Hawaii, Manoa",21.295,-157.8176,Public
+Northeastern U.,Northeastern University,42.34,-71.0892,Private
+Virginia Commonwealth U.,Virginia Commonwealth University (VCU),37.5493,-77.437,Public
+"U. California, Santa Barbara","University of California, Santa Barbara (UC Santa Barbara)",34.4139,-119.8489,Public
+Medical U. South Carolina,Medical University of South Carolina (MUSC),32.7835,-79.931,Public
+Dartmouth C. and Dartmouth Hitchcock Medical Center,Dartmouth College and Dartmouth-Hitchcock Medical Center,43.7057,-72.2887,Private
+George Washington U.,George Washington University,38.8997,-77.0471,Private
+"U. Alaska, Fairbanks","University of Alaska, Fairbanks",64.8569,-147.7227,Public
+Florida International U.,Florida International University (FIU),25.755,-80.3765,Public
+Medical C. Wisconsin,Medical College of Wisconsin,43.0374,-87.9773,Private
+Temple U.,Temple University,40.0083,-75.1239,Public
+Tufts U.,Tufts University,42.4075,-71.119,Private
+"U. Tennessee, Knoxvillef","University of Tennessee, Knoxville",35.9587,-83.9295,Public
+Tulane U.,Tulane University,29.9403,-90.1252,Private
+U. New Hampshire,University of New Hampshire,43.206,-71.2875,Public
+Mississippi State U.,Mississippi State University,33.4555,-88.7874,Public
+U. Texas Medical Branch,University of Texas Medical Branch (UTMB),29.2906,-94.7937,Public
+U. Notre Dame,University of Notre Dame,41.7,-86.238,Private
+"U. Texas Health Science Center, San Antonio","University of Texas Health Science Center, San Antonio (UTHSCSA)",29.4244,-98.4952,Public
+"Montana State U., Bozeman","Montana State University, Bozeman",45.6711,-111.0437,Public
+Wichita State U.,Wichita State University,37.6883,-97.337,Public
+"U. Massachusetts, Amherst","University of Massachusetts, Amherst",42.3916,-72.5199,Public
+Clemson U.,Clemson University,34.6739,-82.838,Public
+U. Vermont,University of Vermont,44.474,-73.2121,Public
+Wayne State U.,Wayne State University,42.3596,-83.0698,Public
+Georgetown U.,Georgetown University,38.907,-77.0707,Private
+"Louisiana State U., Baton Rouge","Louisiana State University, Baton Rouge",30.413,-91.18,Public
+"U. Alabama, Huntsville","University of Alabama, Huntsville (UAH)",34.7294,-86.5867,Public
+"Auburn U., Auburn","Auburn University, Auburn",32.601,-85.489,Public
+George Mason U.,George Mason University,38.8794,-77.3354,Public
+"U. South Carolina, Columbia","University of South Carolina, Columbia (USC)",33.9973,-81.0253,Public
+U. Central Florida,University of Central Florida (UCF),28.6024,-81.2005,Public
+"U. California, Riverside","University of California, Riverside (UC Riverside)",33.9746,-117.3287,Public
+Rice U.,Rice University,29.7173,-95.4029,Private
+West Virginia U.,West Virginia University,39.6295,-79.9559,Public
+"U. California, Santa Cruz","University of California, Santa Cruz (UC Santa Cruz)",36.9984,-122.0603,Public
+Thomas Jefferson U.,Thomas Jefferson University,39.951,-75.1913,Private
+Drexel U.,Drexel University,39.9533,-75.1899,Private
+U. Rhode Island,University of Rhode Island,41.4845,-71.5263,Public
+Rockefeller U.,Rockefeller University,40.7624,-73.954,Private
+U. Louisville,University of Louisville,38.214,-85.7585,Public
+New Mexico Institute of Mining and Technology,New Mexico Institute of Mining and Technology,33.3806,-105.5324,Public
+U. Oregon,University of Oregon,44.0521,-123.0868,Public
+U. Houston,University of Houston,29.7174,-95.3438,Public
+U. Arkansas for Medical Sciences,University of Arkansas for Medical Sciences,34.7465,-92.329,Public
+Rush U.,Rush University,41.867,-87.672,Private
+U. Maine,University of Maine,44.9006,-68.6703,Public
+Georgia State U.,Georgia State University,33.755,-84.3915,Public
+"U. Maryland, Baltimore County","University of Maryland, Baltimore County (UMBC)",39.2575,-76.7139,Public
+"U. Alabama, Tuscaloosa","University of Alabama, Tuscaloosa",33.2147,-87.5451,Public
+U. Mississippi,University of Mississippi,34.0219,-88.185,Public
+"U. Louisiana, Lafayette","University of Louisiana, Lafayette",30.2136,-92.0208,Public
+"U. Nevada, Reno","University of Nevada, Reno",39.5296,-119.8138,Public
+Kansas State U.,Kansas State University,39.1836,-96.5718,Public
+"U. Arkansas, Fayetteville","University of Arkansas, Fayetteville (UA Fayetteville)",36.067,-94.174,Public
+"U. North Texas, Health Science Center","University of North Texas, Health Science Center",32.7749,-97.3232,Public
+"U. Montana, Missoula","University of Montana, Missoula",46.8579,-113.9891,Public
+New Mexico State U.,New Mexico State University,32.2819,-106.7467,Public
+"U. Texas, El Paso","University of Texas, El Paso (UTEP)",31.7774,-106.5045,Public
+"U. Tennessee, Health Science Center","University of Tennessee, Health Science Center (UTHSC)",35.1495,-90.0504,Public
+New Jersey Institute of Technology,New Jersey Institute of Technology (NJIT),40.7442,-74.1735,Public
+Colorado School of Mines,Colorado School of Mines,39.7423,-105.294,Public
+U. Wyoming,University of Wyoming,41.3112,-74.7894,Public
+San Diego State U.,San Diego State University,32.7745,-117.0711,Public
+"U. Texas, Dallas","University of Texas, Dallas (UT Dallas)",32.9857,-96.7492,Public
+U. North Dakota,University of North Dakota,47.9275,-97.0717,Public
+Augusta U.,Augusta University,33.4734,-82.01,Public
+"Oklahoma State U., Stillwater","Oklahoma State University, Stillwater",36.155,-97.4456,Public
+"SUNY, U. Albany","SUNY, University at Albany",42.6526,-73.7559,Public
+Naval Postgraduate School,Naval Postgraduate School,36.5951,-121.897,Public
+U. Idaho,University of Idaho,44.0133,-116.8183,Public
+"U. Massachusetts, Lowell","University of Massachusetts, Lowell",42.6334,-71.3076,Public
+Texas Tech U.,Texas Tech University,33.5779,-101.8552,Public
+"U. Texas, San Antonio","University of Texas, San Antonio",29.5337,-98.6197,Public
+Cleveland State U.,Cleveland State University,41.5062,-81.675,Public
+Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,42.7301,-73.6783,Private
+"U. Texas, Arlington","University of Texas, Arlington",32.7357,-97.1081,Public
+Florida A&M U.,Florida A&M University,30.4414,-84.2807,Public
+Cold Spring Harbor Laboratory,Cold Spring Harbor Laboratory,40.8942,-73.3739,Private
+North Dakota State U.,North Dakota State University,46.8772,-96.7898,Public
+Michigan Technological U.,Michigan Technological University,47.1184,-88.548,Public
+Northern Arizona U.,Northern Arizona University,35.1844,-111.6558,Public
+U. Southern Mississippi,University of Southern Mississippi,31.3268,-89.3399,Public
+Howard U.,Howard University,38.9175,-77.02,Private
+"U. Puerto Rico, Medical Sciences Campus","University of Puerto Rico, Medical Sciences Campus",18.4684,-66.1182,Public
+Brandeis U.,Brandeis University,42.3656,-71.2587,Private
+Syracuse U.,Syracuse University,43.0373,-76.1359,Private
+Air Force Institute of Technology,Air Force Institute of Technology,39.783,-84.211,Public
+Texas State U.,Texas State University,29.888,-97.934,Public
+Saint Louis U.,Saint Louis University,38.6363,-90.242,Private
+U.S. Air Force Academy,U.S. Air Force Academy,38.995,-104.871,Public
+Stevens Institute of Technology,Stevens Institute of Technology,40.744,-74.0335,Private
+Morehouse School of Medicine,Morehouse School of Medicine,33.7449,-84.3951,Private
+"Touro U., New Yorkg","Touro University, New York",40.7892,-73.955,Private
+Lehigh U.,Lehigh University,40.6024,-75.3759,Private
+"Indiana U.-Purdue U., Indianapolis","Indiana University-Purdue University, Indianapolis",39.7684,-86.158,Public
+Boston C.,Boston College,42.3351,-71.1685,Private
+"U. Nevada, Las Vegas","University of Nevada, Las Vegas",36.085,-115.1537,Public
+"CUNY, City C.",City University of New York (CUNY),40.7128,-74.006,Public
+U. Toledo,University of Toledo,41.6629,-83.5552,Public
+Worcester Polytechnic Institute,Worcester Polytechnic Institute,42.274,-71.8087,Private
+Rochester Institute of Technology,Rochester Institute of Technology,43.084,-77.6747,Private
+North Carolina A&T State U.,North Carolina A&T State University,36.0733,-79.7923,Public
+"Louisiana State U., Health Sciences Center, New Orleans","Louisiana State University Health Sciences Center, New Orleans",29.949,-90.0675,Public
+Boise State U.,Boise State University,43.5976,-116.201,Public
+Catholic U. of America,Catholic University of America,38.936,-77.0097,Private
+Florida Atlantic U.,Florida Atlantic University,26.3683,-80.1287,Public
+"SUNY, Polytechnic Institute",SUNY Polytechnic Institute,43.0972,-75.2267,Public
+"U. North Carolina, Charlotte","University of North Carolina, Charlotte (UNC Charlotte)",35.3075,-80.7335,Public
+U. Denver,University of Denver,39.7392,-104.9903,Private
+William & Mary,College of William & Mary,37.2707,-76.7177,Public
+Missouri U. of Science and Technology,Missouri University of Science and Technology,37.9537,-92.6178,Public
+San Jose State U.,San Jose State University,37.3352,-121.8815,Public
+Portland State U.,Portland State University,45.5152,-122.6784,Public
+"SUNY, Binghamton U.","SUNY, Binghamton University",42.0987,-75.918,Public
+"U. North Carolina, Greensboro","University of North Carolina, Greensboro",36.0726,-79.791,Public
+"Brigham Young U., Provo","Brigham Young University, Provo",40.2513,-111.6503,Private
+Old Dominion U.,Old Dominion University,36.8643,-76.3043,Public
+Van Andel Research Institute,Van Andel Research Institute,42.965,-85.664,Private
+East Carolina U.,East Carolina University,35.6051,-77.366,Public
+Morgan State U.,Morgan State University,39.3231,-76.614,Public
+"SUNY, Upstate Medical U.","SUNY, Upstate Medical University",43.0605,-76.1283,Public
+"U. North Texas, Denton","University of North Texas, Denton",33.209,-97.1307,Public
+Mercer U.,Mercer University,32.8407,-83.6321,Private
+"Loyola U., Chicago",Loyola University Chicago,41.8664,-87.6235,Private
+South Dakota State U.,South Dakota State University,44.299,-96.7313,Public
+U. South Alabama,University of South Alabama,30.6784,-88.1188,Public
+"U. California, Merced","University of California, Merced",37.3662,-120.4324,Public
+"SUNY, Downstate Health Sciences U.","SUNY, Downstate Health Sciences University",40.6442,-73.9489,Public
+"U. Missouri, Kansas City","University of Missouri, Kansas City",39.024,-94.5877,Public
+Illinois Institute of Technology,Illinois Institute of Technology,41.8363,-87.6269,Private
+"U. Massachusetts, Boston","University of Massachusetts, Boston",42.3601,-71.0589,Public
+U. Memphis,University of Memphis,35.1495,-90.049,Public
+U. Wisconsin-Milwaukee,University of Wisconsin-Milwaukee,43.0731,-87.8834,Public
+U. Texas Rio Grande Valley,University of Texas Rio Grande Valley,26.2047,-98.23,Public
+Delaware State U.,Delaware State University,39.1906,-75.5221,Public
+Embry-Riddle Aeronautical U.,Embry-Riddle Aeronautical University,29.1385,-81.0462,Private
+"CUNY, Hunter C.","City University of New York, Hunter College",40.764,-73.9632,Public
+"U. Nebraska, Omaha","University of Nebraska, Omaha",41.2565,-95.9382,Public
+Ohio U.,Ohio University,39.3243,-82.1012,Public
+Desert Research Institute,Desert Research Institute,39.5296,-119.8138,Public
+Marquette U.,Marquette University,43.0389,-87.9295,Private
+Southern Methodist U.,Southern Methodist University,32.8449,-96.7837,Private
+Marshall U.,Marshall University,38.4193,-82.4452,Public
+U.S. Military Academy,United States Military Academy (West Point),41.3954,-73.9662,Public
+"California State U., Northridge","California State University, Northridge",34.238,-118.5301,Public
+U. of the Virgin Islands,University of the Virgin Islands,18.3435,-64.9339,Public
+Wright State U.,Wright State University,39.7537,-84.1869,Public
+U. Guam,University of Guam,13.4443,144.792,Public
+"Louisiana State U., Health Sciences Center, Shreveport","Louisiana State University, Health Sciences Center, Shreveport",32.498,-93.7562,Public
+Rowan U.,Rowan University,39.7128,-75.1556,Public
+Meharry Medical C.,Meharry Medical College,36.1602,-86.8048,Private
+Kent State U.,Kent State University,41.15,-81.3423,Public
+U. West Florida,University of West Florida,30.4414,-87.2195,Public
+Eastern Virginia Medical School,Eastern Virginia Medical School,36.8663,-76.3015,Public
+"CUNY, Queens C.","City University of New York, Queens College",40.7447,-73.8214,Public
+Texas A&M U.-Corpus Christi,Texas A&M University-Corpus Christi,27.8006,-97.3964,Public
+American U.,American University,38.9365,-77.0987,Private
+"Southern Illinois U., Carbondale","Southern Illinois University, Carbondale",37.7151,-89.2159,Public
+U. Colorado Denverc,University of Colorado Denver,39.7392,-104.9903,Public
+Baylor U.,Baylor University,31.5493,-97.1143,Private
+San Francisco State U.,San Francisco State University,37.7213,-122.4786,Public
+Jackson State U.,Jackson State University,32.298,-90.1848,Public
+"Rutgers, State U. New Jersey, Newark","Rutgers, State University New Jersey, Newark",40.7357,-74.1724,Public
+"U. Puerto Rico, Rio Piedras","University of Puerto Rico, Rio Piedras",18.3965,-66.0548,Public
+Tuskegee U.,Tuskegee University,32.4226,-85.7175,Public
+Tennessee State U.,Tennessee State University,36.1647,-86.8432,Public
+U. Maryland Center for Environmental Science,University of Maryland Center for Environmental Science,38.3752,-76.5064,Public
+North Carolina Central U.,North Carolina Central University,35.7861,-78.8711,Public
+"California Polytechnic State U., San Luis Obispo","California Polytechnic State University, San Luis Obispo",35.2984,-120.6625,Public
+"Texas Tech U., Health Sciences Center",Texas Tech University Health Sciences Center,33.5779,-101.8552,Public
+South Dakota School of Mines and Technology,South Dakota School of Mines and Technology,44.0735,-103.7345,Public
+Albany Medical C.,Albany Medical College,42.6746,-73.832,Private
+"U. Hawaii, system office","University of Hawaii, system office",21.3105,-157.8581,Public
+U. South Dakota,University of South Dakota,42.7805,-96.921,Public
+"California State U., Long Beach","California State University, Long Beach",33.78,-118.1887,Public
+"U. Massachusetts, Dartmouth","University of Massachusetts, Dartmouth",41.6764,-70.3801,Public
+Illinois State U.,Illinois State University,40.5142,-88.99,Public
+"CUNY, Graduate School of Public Health and Health Policy","City University of New York, Graduate School of Public Health",40.7362,-73.9994,Public
+Charles R. Drew U. of Medicine and Science,Charles R. Drew University of Medicine and Science,33.9849,-118.286,Private
+Missouri State U.,Missouri State University,37.207,-93.2923,Public
+Xavier U. Louisiana,Xavier University of Louisiana,29.9444,-90.0837,Private
+Creighton U.,Creighton University,41.2554,-95.939,Private
+"U. Alaska, Anchorage","University of Alaska, Anchorage",61.1904,-149.9003,Public
+Western Michigan U. and Homer Stryker M.D. School of Medicine,Western Michigan University and Homer Stryker M.D. School of Medicine,42.2911,-85.5894,Public
+"U. Texas Health Science Center, Tyler","University of Texas Health Science Center, Tyler",32.3512,-95.301,Public
+Loma Linda U.,Loma Linda University,34.048,-117.2555,Private
+Prairie View A&M U.,Prairie View A&M University,30.094,-95.981,Public
+"U. Puerto Rico, Mayaguez","University of Puerto Rico, Mayaguez",18.2084,-67.1383,Public
+Alabama A&M U.,Alabama A&M University,34.7622,-86.5892,Public
+"CUNY, Advanced Science Research Center","City University of New York, Advanced Science Research Center",40.7412,-73.9808,Public
+"Teachers C., Columbia U.","Teachers College, Columbia University",40.8075,-73.9626,Private
+Nova Southeastern U.,Nova Southeastern University,26.0581,-80.2427,Private
+Florida Institute of Technology,Florida Institute of Technology,28.065,-80.6274,Private
+"California State U., Sacramento","California State University, Sacramento",38.5604,-121.421,Public
+Alcorn State U.,Alcorn State University,31.2715,-90.8491,Public
+Texas Southern U.,Texas Southern University,29.7329,-95.3573,Public
+Northern Illinois U.,Northern Illinois University,41.933,-88.7739,Public
+East Tennessee State U.,East Tennessee State University,36.3121,-82.355,Public
+Miami U.,Miami University,39.5078,-84.7321,Public
+U. Akron,University of Akron,41.0814,-81.519,Public
+Clarkson U.,Clarkson University,44.6882,-74.9983,Private
+U.S. Naval Academy,United States Naval Academy,38.9784,-76.4922,Public
+"U. Maryland, Eastern Shore","University of Maryland, Eastern Shore",38.3187,-75.7103,Public
+Chapman U.,Chapman University,33.7831,-117.8813,Private
+Tennessee Technological U.,Tennessee Technological University,36.1654,-85.5052,Public
+Florida Gulf Coast U.,Florida Gulf Coast University,26.4483,-81.7732,Public
+"California State U., San Marcos","California State University, San Marcos",33.1434,-117.1661,Public
+Oakland U.,Oakland University,42.678,-83.2105,Public
+Central Michigan U.,Central Michigan University,43.5897,-84.7746,Public
+Montana Technological U.,Montana Technological University,45.6745,-112.0215,Public
+Texas A&M U.-Kingsville,Texas A&M University-Kingsville,27.5143,-97.8613,Public
+Hampton U.,Hampton University,37.0299,-76.345,Private
+"SUNY, C. of Environmental Science and Forestry","SUNY, College of Environmental Science and Forestry",43.0247,-75.2303,Public
+Idaho State U.,Idaho State University,42.8589,-112.4396,Public
+"California State U., Los Angeles","California State University, Los Angeles",34.0736,-118.2823,Public
+Northeast Ohio Medical U.,Northeast Ohio Medical University,41.0753,-80.7725,Public
+Villanova U.,Villanova University,40.0205,-75.3285,Private
+U. Tulsa,University of Tulsa,36.153,-95.9427,Private
+"California State U., East Bay","California State University, East Bay",37.6905,-122.1619,Public
+New York Medical C.,New York Medical College,41.0045,-73.8659,Private
+Bowling Green State U.,Bowling Green State University,41.3773,-83.6496,Public
+"California State Polytechnic U., Pomona","California State Polytechnic University, Pomona",34.055,-117.7187,Public
+Louisiana Tech U.,Louisiana Tech University,32.5273,-93.6731,Public
+"U. North Carolina, Wilmington","University of North Carolina, Wilmington",34.2255,-77.9456,Public
+U. North Florida,University of North Florida,30.258,-81.5301,Public
+Winston-Salem State U.,Winston-Salem State University,36.0972,-80.2449,Public
+Clark Atlanta U.,Clark Atlanta University,33.7487,-84.4297,Private
+Texas Christian U.,Texas Christian University,32.7097,-97.3573,Private
+"California State U., San Bernardino","California State University, San Bernardino",34.1345,-117.2912,Public
+Kentucky State U.,Kentucky State University,38.0395,-84.4914,Public
+"U. Arkansas, Little Rock","University of Arkansas, Little Rock",34.7465,-92.2897,Public
+"U. Minnesota, Duluth","University of Minnesota, Duluth",46.7833,-92.1,Public
+Fort Valley State U.,Fort Valley State University,32.5396,-83.3665,Public
+"CUNY, John Jay C. of Criminal Justice","City University of New York, John Jay College of Criminal Justice",40.7126,-74.0103,Public
+U. of the District of Columbia,University of the District of Columbia,38.907,-77.0374,Public
+Virginia State U.,Virginia State University,37.2196,-77.4105,Public
+Pacific U.,Pacific University,45.1807,-123.8297,Private
+Rosalind Franklin U. of Medicine and Science,Rosalind Franklin University of Medicine and Science,42.0852,-87.8281,Private
+Western Washington U.,Western Washington University,48.7365,-122.4844,Public
+Duquesne U.,Duquesne University,40.4399,-79.9965,Private
+Ball State U.,Ball State University,40.1952,-85.4108,Public
+MGH Institute of Health Professions,MGH Institute of Health Professions,42.3613,-71.067,Private
+Western U. of Health Sciences,Western University of Health Sciences,34.111,-117.713,Private
+"U. Hawaii, Hilo","University of Hawaii, Hilo",19.7133,-155.088,Public
+"California State U., Fullerton","California State University, Fullerton",33.8763,-117.8856,Public
+U.S. Army War C.,U.S. Army War College,40.1934,-77.188,Public
+"U. Tennessee, Chattanooga","University of Tennessee, Chattanooga",35.0644,-85.25,Public
+Wesleyan U.,Wesleyan University,41.366,-72.6485,Private
+Montclair State U.,Montclair State University,40.8674,-74.1981,Public
+Kennesaw State U.,Kennesaw State University,34.0347,-84.5817,Public
+Naval War C.,Naval War College,41.4931,-71.3146,Public
+Morehouse C.,Morehouse College,33.7497,-84.3713,Private
+"California State U., Monterey Bay","California State University, Monterey Bay",36.6779,-122.4731,Public
+DePaul U.,DePaul University,41.9247,-87.6456,Private
+Central State U.,Central State University,39.8453,-83.0029,Public
+Gallaudet U.,Gallaudet University,38.9084,-77.0285,Private
+"CUNY, Brooklyn C.","City University of New York, Brooklyn College",40.65,-73.9495,Public
+Tarleton State U.,Tarleton State University,32.2942,-98.2051,Public
+Langston U.,Langston University,35.4871,-97.4799,Public
+South Carolina State U.,South Carolina State University,33.9875,-80.5472,Public
+U. New Orleans,University of New Orleans,30.0175,-90.1102,Public
+U. Colorado Colorado Springs,University of Colorado Colorado Springs,38.8784,-104.7621,Public
+Salisbury U.,Salisbury University,38.365,-75.5991,Public
+C. Charleston,College of Charleston,32.7833,-79.9309,Public
+"California State U., Fresno","California State University, Fresno",36.8232,-119.7025,Public
+U. New England,University of New England,43.7804,-70.1884,Private
+"Oklahoma State U., Center for Health Sciences","Oklahoma State University, Center for Health Sciences",36.1521,-95.9989,Public
+"Southern U. and A&M C., Agricultural Research and Extension Center","Southern University and A&M College, Agricultural Research and Extension Center",30.675,-91.1896,Public
+Fordham U.,Fordham University,40.861,-73.8867,Private
+Providence C.,Providence College,41.8844,-71.4806,Private
+"Lincoln U., Jefferson City","Lincoln University, Jefferson City",38.9393,-92.6697,Public
+Northwest Indian C.,Northwest Indian College,48.069,-122.7673,Public
+"U. Missouri, Saint Louis","University of Missouri, Saint Louis",38.6477,-90.3361,Public
+Spelman C.,Spelman College,33.7484,-84.3854,Private
+"CUNY, Lehman C.","City University of New York, Lehman College",40.8679,-73.9026,Public
+"Southern U. and A&M C., Baton Rouge","Southern University and A&M College, Baton Rouge",30.433,-91.1878,Public
+U. Detroit Mercy,University of Detroit Mercy,42.3652,-83.1729,Private
+Norfolk State U.,Norfolk State University,36.8502,-76.2673,Public
+"Pennsylvania State U., Behrend","Pennsylvania State University, Behrend",42.0852,-80.156,Public
+U. Baltimore,University of Baltimore,39.3081,-76.6135,Public
+Barnard C.,Barnard College,40.809,-73.9632,Private
+"U. Arkansas, Pine Bluff","University of Arkansas, Pine Bluff",34.3,-92.2976,Public
+"U. Washington, Tacoma","University of Washington, Tacoma",47.2492,-122.4394,Public
+Middle Tennessee State U.,Middle Tennessee State University,35.8495,-86.3974,Public
+Fisk U.,Fisk University,36.1603,-86.8222,Private
+"U. Washington, Bothell","University of Washington, Bothell",47.778,-122.2049,Public
+Chicago State U.,Chicago State University,41.7409,-87.595,Public
+Towson U.,Towson University,39.3934,-76.6091,Public
+Hope C.,Hope College,42.7879,-86.1087,Private
+"Southern Illinois U., Edwardsville","Southern Illinois University, Edwardsville",38.7987,-89.2762,Public
+Georgia Southern U.,Georgia Southern University,32.4106,-81.7816,Public
+U. Wisconsin-Superior,University of Wisconsin-Superior,46.7057,-92.0871,Public
+"California State U., Bakersfield","California State University, Bakersfield",35.3738,-119.0187,Public
+U. San Diego,University of San Diego,32.7712,-117.1882,Private
+Appalachian State U.,Appalachian State University,36.2135,-81.6822,Public
+Sonoma State U.,Sonoma State University,38.4237,-122.7085,Public
+James Madison U.,James Madison University,38.4323,-78.8648,Public
+"U. Michigan, Dearborn","University of Michigan, Dearborn",42.3916,-83.2104,Public
+Santa Clara U.,Santa Clara University,37.3541,-121.9552,Private
+New Mexico Highlands U.,New Mexico Highlands University,36.5922,-105.2622,Public
+"Purdue U., Northwest","Purdue University, Northwest",41.5481,-87.0304,Public
+Western Kentucky U.,Western Kentucky University,36.9906,-86.4431,Public
+"U. North Carolina, Asheville","University of North Carolina, Asheville",35.602,-82.5542,Public
+Sam Houston State U.,Sam Houston State University,30.7102,-95.5502,Public
+"CUNY, C. Staten Island","City University of New York, College of Staten Island",40.5982,-74.1404,Public
+Citadel Military C. South Carolina,Citadel Military College of South Carolina,32.7842,-79.93,Public
+Western Illinois U.,Western Illinois University,40.1107,-90.711,Public
+"California State Polytechnic U., Humboldt","California State Polytechnic University, Humboldt",40.8664,-124.0841,Public
+New York Institute of Technology,New York Institute of Technology,40.7321,-73.9966,Private
+"California State U., Chico","California State University, Chico",39.7285,-121.8375,Public
+U. of Health Sciences and Pharmacy in St. Louis,University of Health Sciences and Pharmacy in St. Louis,38.6327,-90.263,Private
+"Arkansas State U., Jonesboro","Arkansas State University, Jonesboro",35.8428,-90.678,Public
+Troy U.,Troy University,31.948,-85.9645,Public
+"Pennsylvania State U., Harrisburg","Pennsylvania State University, Harrisburg",40.2912,-76.8843,Public
+"Rutgers, State U. New Jersey, Camden","Rutgers, State University of New Jersey, Camden",39.9279,-75.1192,Public
+Smith C.,Smith College,42.3266,-72.6548,Private
+Colby C.,Colby College,44.5644,-69.6671,Private
+U. Northern Iowa,University of Northern Iowa,42.5347,-92.4455,Public
+Occidental C.,Occidental College,34.1394,-118.2188,Private
+U. Central del Caribe,University Central del Caribe,18.2272,-66.6555,Private
+Loyola Marymount U.,Loyola Marymount University,33.9774,-118.287,Private
+Wellesley C.,Wellesley College,42.2938,-71.2981,Private
+"CUNY, system office","City University of New York, System Office",40.7128,-74.006,Public
+Amherst C.,Amherst College,42.3736,-72.5199,Private
+Midwestern U.,Midwestern University,41.8365,-88.0874,Private
+Alabama State U.,Alabama State University,32.3926,-86.3142,Public
+Fort Lewis C.,Fort Lewis College,37.2759,-107.8804,Public
+Carleton C.,Carleton College,44.459,-93.154,Private
+West Virginia State U.,West Virginia State University,38.369,-81.7479,Public
+"CUNY, Graduate Center","City University of New York, Graduate Center",40.7457,-73.978,Public
+"St. John's U., New York","St. John's University, New York",40.7246,-73.9972,Private
+Seton Hall U.,Seton Hall University,40.7457,-74.1725,Private
+Pace U.,Pace University,40.7532,-73.9832,Private
+Youngstown State U.,Youngstown State University,41.0991,-80.6494,Public
+Saint Joseph's U.,Saint Joseph's University,40.0359,-75.1979,Private
+Tougaloo C.,Tougaloo College,32.368,-90.176,Private
+U. Southern Maine,University of Southern Maine,43.6606,-70.2589,Public
+Middlebury C.,Middlebury College,44.0092,-73.1775,Private
+Eastern Michigan U.,Eastern Michigan University,42.2585,-83.7262,Public
+Saginaw Valley State U.,Saginaw Valley State University,43.5264,-83.9502,Public
+Central Washington U.,Central Washington University,47.3944,-120.5465,Public
+"CUNY, New York City C. of Technology","City University of New York, New York City College of Technology",40.7246,-73.9938,Public
+National Defense U.,National Defense University,38.7926,-77.1204,Public
+Bowie State U.,Bowie State University,38.9784,-76.731,Public
+"SUNY, C. of Optometry","State University of New York, College of Optometry",40.7361,-73.8561,Public
+"California State U., Dominguez Hills","California State University, Dominguez Hills",33.8667,-118.2208,Public
+Texas Woman's U.,Texas Woman's University,33.223,-97.148,Public
+Dakota State U.,Dakota State University,44.2971,-97.7591,Public
+Reed C.,Reed College,45.479,-122.6303,Private
+"Texas Tech U., Health Sciences Center, El Paso","Texas Tech University, Health Sciences Center, El Paso",31.776,-106.5051,Public
+Northern Kentucky U.,Northern Kentucky University,39.037,-84.4467,Public
+Bucknell U.,Bucknell University,40.9595,-76.8833,Private
+Winthrop U.,Winthrop University,34.0193,-81.0437,Public
+Haverford C.,Haverford College,40.0046,-75.3039,Private
+Keck Graduate Institute,Keck Graduate Institute,34.099,-117.713,Private
+Swarthmore C.,Swarthmore College,39.9009,-75.3495,Private
+Northeastern Illinois U.,Northeastern Illinois University,41.982,-87.745,Public
+Lamar U.,Lamar University,30.0923,-94.1873,Public
+Dine C.,Diné College,35.8591,-109.4104,Public
+Clark U.,Clark University,42.2652,-71.8064,Private
+U. New Haven,University of New Haven,41.2235,-73.0221,Private
+Trinity U.,Trinity University,29.4539,-98.4667,Private
+Bowdoin C.,Bowdoin College,43.914,-69.967,Private
+"U. Ana G. Mendez, Gurabo","University Ana G. Méndez, Gurabo",18.2244,-65.9487,Private
+"Toyota Technological Institute, Chicago","Toyota Technological Institute, Chicago",41.978,-87.6715,Private
+West Texas A&M U.,West Texas A&M University,35.302,-101.8673,Public
+U. Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,44.5227,-89.5732,Public
+U. Central Oklahoma,University of Central Oklahoma,35.3934,-97.5149,Public
+Murray State U.,Murray State University,36.6063,-88.3122,Public
+Christopher Newport U.,Christopher Newport University,37.0264,-76.4904,Public
+Hofstra U.,Hofstra University,40.7293,-73.6185,Private
+Long Island U.,Long Island University,40.7305,-73.339,Private
+Roger Williams U.,Roger Williams University,41.7126,-71.2172,Private
+Harvey Mudd C.,Harvey Mudd College,34.101,-117.7189,Private
+Texas A&M International U.,Texas A&M International University,27.7954,-99.5089,Public
+Alfred U.,Alfred University,42.2509,-77.7857,Private
+New England C. of Optometry,New England College of Optometry,42.3653,-71.0634,Private
+Hawaii Pacific U.,Hawaii Pacific University,21.2963,-157.817,Private
+Texas A&M U.-Commerce,Texas A&M University-Commerce,33.2536,-95.9179,Public
+Black Hills State U.,Black Hills State University,44.2991,-103.7243,Public
+"CUNY, Baruch C.","City University of New York, Baruch College",40.7424,-73.9852,Public
+Kean U.,Kean University,40.6586,-74.2006,Public
+Coastal Carolina U.,Coastal Carolina University,33.6787,-79.0103,Public
+Fayetteville State U.,Fayetteville State University,35.0779,-78.8767,Public
+U. Central Arkansas,University of Central Arkansas,35.1023,-92.441,Public
+"U. Puerto Rico, Humacao","University of Puerto Rico, Humacao",18.1251,-65.823,Public
+Grand Valley State U.,Grand Valley State University,42.9634,-85.9412,Public
+Lawrence Technological U.,Lawrence Technological University,42.4635,-83.2121,Private
+"California State U., Channel Islands","California State University, Channel Islands",34.1564,-119.0423,Public
+C. New Jersey,College of New Jersey,40.2684,-74.7749,Public
+"U. Nebraska, Kearney","University of Nebraska, Kearney",40.6999,-98.2403,Public
+Morehead State U.,Morehead State University,38.1834,-83.432,Public
+Nevada State C.,Nevada State College,36.1186,-115.0784,Public
+U. Northern Colorado,University of Northern Colorado,40.4171,-104.6957,Public
+Indiana U. Pennsylvania,Indiana University of Pennsylvania,40.6252,-79.1542,Public
+Albany State U.,Albany State University,31.5805,-84.1561,Public
+Savannah State U.,Savannah State University,32.0411,-81.1007,Public
+Utah Valley U.,Utah Valley University,40.2455,-111.6597,Public
+Benedict C.,Benedict College,33.9984,-81.031,Private
+"U. Louisiana, Monroe","University of Louisiana, Monroe",32.518,-92.0633,Public
+"U. Texas, Tyler","University of Texas, Tyler",32.351,-95.3013,Public
+"SUNY, Buffalo State U.","SUNY, Buffalo State University",42.9249,-78.8346,Public
+Mount Holyoke C.,Mount Holyoke College,42.2564,-72.5777,Private
+Western Carolina U.,Western Carolina University,35.3051,-83.188,Public
+Pittsburg State U.,Pittsburg State University,37.4029,-94.7036,Public
+Sul Ross State U.,Sul Ross State University,30.5364,-103.6667,Public
+Johnson C. Smith U.,Johnson C. Smith University,35.2349,-80.8435,Private
+Virginia Military Institute,Virginia Military Institute,37.7879,-79.4455,Public
+Colgate U.,Colgate University,42.8181,-75.5383,Private
+"CUNY, York C.","City University of New York, York College",40.6932,-73.8222,Public
+"Palmer C. of Chiropractic, Davenport","Palmer College of Chiropractic, Davenport",41.5417,-90.5727,Private
+U. Houston-Downtown,University of Houston-Downtown,29.761,-95.3633,Public
+Lake Superior State U.,Lake Superior State University,46.4918,-84.3638,Public
+Franklin and Marshall C.,Franklin and Marshall College,40.0433,-76.3082,Private
+"U. Alaska, Southeast","University of Alaska, Southeast",58.3019,-134.4197,Public
+Bates C.,Bates College,44.1079,-70.2131,Private
+Williams C.,Williams College,42.7116,-73.203,Private
+Southern Connecticut State U.,Southern Connecticut State University,41.3185,-72.9249,Public
+Ferris State U.,Ferris State University,43.6534,-85.3199,Public
+Claremont Graduate U.,Claremont Graduate University,34.1025,-117.7189,Private
+Claflin U.,Claflin University,33.4121,-80.8034,Private
+Austin Peay State U.,Austin Peay State University,36.5292,-87.3599,Public
+West Chester U. Pennsylvania,West Chester University of Pennsylvania,39.9606,-75.6094,Public
+U. Richmond,University of Richmond,37.5539,-77.4764,Private
+Oregon Institute of Technology,Oregon Institute of Technology,42.1322,-122.7754,Public
+Norwich U.,Norwich University,44.1399,-72.6486,Private
+Southeastern Louisiana U.,Southeastern Louisiana University,30.5069,-90.4626,Public
+Davidson C.,Davidson College,35.4995,-80.8446,Private
+New School,New School,40.7359,-73.994,Private
+United Tribes Technical C.,United Tribes Technical College,46.8145,-100.7694,Public
+"U. Oklahoma, Tulsa","University of Oklahoma, Tulsa",36.1539,-95.9928,Public
+Furman U.,Furman University,34.9314,-82.4265,Private
+U. of the Pacific,University of the Pacific,38.2471,-121.7564,Private
+U. Puget Sound,University of Puget Sound,47.267,-122.4931,Private
+"SUNY, Geneseo","SUNY, Geneseo",42.7919,-77.8184,Public
+Bryn Mawr C.,Bryn Mawr College,40.023,-75.313,Private
+Skidmore C.,Skidmore College,43.0835,-73.7901,Private
+"Touro U., California","Touro University, California",38.2719,-122.2789,Private
+U. Houston-Clear Lake,University of Houston-Clear Lake,29.5826,-95.1082,Public
+U. Hartford,University of Hartford,41.8044,-72.9247,Private
+Albany C. of Pharmacy and Health Sciences,Albany College of Pharmacy and Health Sciences,42.6634,-73.7491,Private
+U. Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,44.0247,-88.5386,Public
+Erikson Institute,Erikson Institute,41.906,-87.6324,Private
+"U. Hawaii, Maui C.","University of Hawaii, Maui College",20.8844,-156.464,Public
+Texas A&M U.-San Antonio,Texas A&M University-San Antonio,29.4191,-98.4699,Public
+Yeshiva U.,Yeshiva University,40.8587,-73.9301,Private
+Dillard U.,Dillard University,29.9529,-90.0752,Private
+U. Wisconsin-Green Bay,University of Wisconsin-Green Bay,44.5192,-88.0195,Public
+Pomona C.,Pomona College,34.0961,-117.7129,Private
+Vassar C.,Vassar College,41.6901,-73.8992,Private
+Florida Polytechnic U.,Florida Polytechnic University,27.6092,-81.7024,Public
+Seattle U.,Seattle University,47.6555,-122.3035,Private
+"California State U., Stanislaus","California State University, Stanislaus",37.4987,-120.848,Public
+Lafayette C.,Lafayette College,40.712,-75.2206,Private
+"SUNY, C. Plattsburgh","SUNY, College at Plattsburgh",44.6952,-73.4609,Public
+Stephen F. Austin State U.,Stephen F. Austin State University,31.6272,-94.6349,Public
+Macalester C.,Macalester College,44.9484,-93.1809,Private
+Elizabeth City State U.,Elizabeth City State University,36.2936,-76.2223,Public
+Kenyon C.,Kenyon College,40.3741,-82.4234,Private
+U. of the Incarnate Word,University of the Incarnate Word,29.4521,-98.5254,Private
+Grinnell C.,Grinnell College,41.7442,-92.7304,Private
+Butler U.,Butler University,39.8431,-86.1404,Private
+La Sierra U.,La Sierra University,33.9541,-117.3523,Private
+"U. Illinois, Springfield","University of Illinois, Springfield",39.8017,-89.65,Public
+Claremont McKenna C.,Claremont McKenna College,34.0986,-117.7157,Private
+U. Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,44.8067,-91.4989,Public
+Hobart and William Smith Colleges,Hobart and William Smith Colleges,42.8795,-76.5179,Private
+Eastern Washington U.,Eastern Washington University,47.6519,-117.4113,Public
+U. San Francisco,University of San Francisco,37.7749,-122.4194,Private
+U. Texas of the Permian Basin,University of Texas of the Permian Basin,31.858,-102.369,Public
+Indiana State U.,Indiana State University,39.4699,-87.3965,Public
+Drake U.,Drake University,41.6005,-93.6091,Private
+"Colorado State U., Pueblo","Colorado State University, Pueblo",38.2651,-104.5941,Public
+Abilene Christian U.,Abilene Christian University,32.4697,-99.7163,Private
+Ursinus C.,Ursinus College,40.1945,-75.456,Private
+St. Olaf C.,St. Olaf College,44.4653,-93.1597,Private
+"Marian U., Indianapolis","Marian University, Indianapolis",39.7704,-86.1581,Private
+East Stroudsburg U. Pennsylvania,East Stroudsburg University of Pennsylvania,40.9865,-75.1834,Public
+"Minnesota State U., Mankato","Minnesota State University, Mankato",44.1636,-94.0109,Public
+"SUNY, Oswego","SUNY, Oswego",43.4563,-76.536,Public
+Suffolk U.,Suffolk University,42.3601,-71.0589,Private
+Merrimack C.,Merrimack College,42.6765,-71.1227,Private
+"U. South Carolina, Beaufort","University of South Carolina, Beaufort",32.4374,-80.6888,Public
+Northland C.,Northland College,45.0719,-90.0929,Private
+Oberlin C.,Oberlin College,41.2934,-82.2219,Private
+U. Scranton,University of Scranton,41.4094,-75.6625,Private
+National U. of Natural Medicine,National University of Natural Medicine,45.5364,-122.6845,Private
+Calvin U.,Calvin University,42.9617,-85.6393,Private
+Northwestern State U. Louisiana,Northwestern State University of Louisiana,31.7406,-93.0828,Public
+"SUNY, C. Brockport","SUNY, College at Brockport",43.2114,-77.9492,Public
+Bentley U.,Bentley University,42.3601,-71.2077,Private
+Eastern Kentucky U.,Eastern Kentucky University,37.7395,-84.3028,Public
+Rhode Island C.,Rhode Island College,41.8363,-71.417,Public
+"U. South Carolina, Aiken","University of South Carolina, Aiken",33.5617,-81.7126,Public
+Lewis and Clark C.,Lewis and Clark College,45.4509,-122.6715,Private
+Arcadia U.,Arcadia University,40.1029,-75.235,Private
+Monmouth U.,Monmouth University,40.2881,-74.0317,Private
+"U. Puerto Rico, Cayey","University of Puerto Rico, Cayey",18.12,-66.0895,Public
+"SUNY, Cobleskill","SUNY, College of Agriculture and Technology at Cobleskill",42.2651,-74.4945,Public
+"Union C., Schenectady","Union College, Schenectady",42.819,-73.9396,Private
+Milwaukee School of Engineering,Milwaukee School of Engineering,43.0465,-87.9056,Private
+U. Wisconsin-La Crosse,University of Wisconsin-La Crosse,43.8114,-91.2396,Public
+Framingham State U.,Framingham State University,42.2794,-71.416,Public
+St. Cloud State U.,St. Cloud State University,45.5523,-94.1631,Public
+Stockton U.,Stockton University,39.4861,-74.5992,Public
+"Trinity C., Hartford","Trinity College, Hartford",41.7611,-72.6879,Private
+Edward Via C. of Osteopathic Medicine,Edward Via College of Osteopathic Medicine,37.2291,-80.4236,Private
+Pepperdine U.,Pepperdine University,34.0259,-118.7798,Private
+Robert Morris U.,Robert Morris University,40.2661,-80.1834,Private
+Connecticut C.,Connecticut College,41.3754,-72.0912,Private
+Franklin W. Olin C. of Engineering,Franklin W. Olin College of Engineering,42.3143,-71.206,Private
+Sacred Heart U.,Sacred Heart University,41.2461,-73.1991,Private
+Alaska Pacific U.,Alaska Pacific University,61.2171,-149.9003,Private
+Colorado C.,Colorado College,38.8875,-104.8716,Private
+C. Wooster,College of Wooster,40.8135,-81.9339,Private
+Northern Michigan U.,Northern Michigan University,46.5583,-87.3951,Public
+Des Moines U.,Des Moines University,41.5982,-93.6287,Private
+U. Wisconsin-River Falls,University of Wisconsin-River Falls,44.776,-92.6253,Public
+Western New England U.,Western New England University,42.1185,-72.5883,Private
+"Southern U., New Orleans","Southern University, New Orleans",30.0253,-90.1255,Public
+Liberty U.,Liberty University,37.4138,-79.1365,Private
+U. of St. Thomas (MN),University of St. Thomas (MN),44.9721,-93.2106,Private
+Gettysburg C.,Gettysburg College,39.8343,-77.2315,Private
+"U. Puerto Rico, Ponce","University of Puerto Rico, Ponce",17.985,-66.978,Public
+West Virginia School of Osteopathic Medicine,West Virginia School of Osteopathic Medicine,38.349,-81.6326,Private
+Willamette U.,Willamette University,44.9391,-123.0353,Private
+Elon U.,Elon University,36.102,-79.221,Private
+U. North Georgia,University of North Georgia,34.5907,-83.9785,Public
+Gustavus Adolphus C.,Gustavus Adolphus College,44.3436,-94.0189,Private
+U. Wisconsin-Platteville,University of Wisconsin-Platteville,43.183,-90.4672,Public
+Ithaca C.,Ithaca College,42.4089,-76.4978,Private
+Whitman C.,Whitman College,46.0642,-118.3373,Private
+U. Virginia's C. Wise,University of Virginia's College at Wise,37.2687,-82.4103,Public
+Andrews U.,Andrews University,41.9571,-85.126,Private
+Philadelphia C. of Osteopathic Medicine,Philadelphia College of Osteopathic Medicine,40.0511,-75.2252,Private
+Bryant U.,Bryant University,41.9276,-71.4722,Private
+Marshall B. Ketchum U.,Marshall B. Ketchum University,34.1836,-118.1331,Private
+Lincoln U.,Lincoln University,39.741,-75.758,Public
+"Wheaton C., Wheaton","Wheaton College, Wheaton",41.8701,-88.1065,Private
+Manhattan C.,Manhattan College,40.861,-73.897,Private
+"Indiana U., South Bend","Indiana University, South Bend",41.7004,-86.2585,Public
+Hamilton C.,Hamilton College,42.8581,-75.5389,Private
+Canisius U.,Canisius University,42.9339,-78.8662,Private
+U. of Mary Washington,University of Mary Washington,38.3032,-77.4605,Public
+Marymount U.,Marymount University,38.8867,-77.1184,Private
+Central Connecticut State U.,Central Connecticut State University,41.6917,-72.8139,Public
+Grambling State U.,Grambling State University,32.5263,-92.73,Public
+St. Edward's U.,St. Edward's University,30.2303,-97.757,Private
+Lipscomb U.,Lipscomb University,36.08,-86.8,Private
+"Pennsylvania State U., Altoona","Pennsylvania State University, Altoona",40.5187,-78.3943,Public
+U.S. Coast Guard Academy,U.S. Coast Guard Academy,41.3905,-72.095,Public
+"Memorial Sloan Kettering Cancer Center, Louis V. Gerstner Jr. Graduate S. of Biomedical Sciences","Memorial Sloan Kettering Cancer Center, Louis V. Gerstner Jr. Graduate School of Biomedical Sciences",40.7627,-73.956,Private
+Albion C.,Albion College,42.2455,-84.6682,Private
+"Purdue U., Fort Wayne","Purdue University, Fort Wayne",41.0733,-85.1556,Public
+Babson C.,Babson College,42.3628,-71.2856,Private
+Eastern Connecticut State U.,Eastern Connecticut State University,41.7103,-72.222,Public
+Heidelberg U.,Heidelberg University,41.0681,-83.2901,Private
+Fairfield U.,Fairfield University,41.1628,-73.2624,Private
+William Paterson U.,William Paterson University,40.913,-74.168,Public
+St. Mary's C. Maryland,St. Mary's College of Maryland,38.244,-76.474,Private
+New C. Florida,New College of Florida,27.3895,-82.572,Public
+Azusa Pacific U.,Azusa Pacific University,34.128,-117.887,Private
+Radford U.,Radford University,37.1304,-80.5639,Public
+C. of Saint Benedict,College of Saint Benedict,45.5539,-94.4302,Private
+Pratt Institute,Pratt Institute,40.6874,-73.9746,Private
+Roseman U. of Health Sciences,Roseman University of Health Sciences,36.0581,-115.2156,Private
+"U. California, Office of the President","University of California, Office of the President",37.8753,-122.2574,Public
+Lincoln Memorial U.,Lincoln Memorial University,36.616,-83.6891,Private
